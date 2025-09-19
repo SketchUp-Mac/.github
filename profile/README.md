@@ -22,7 +22,7 @@ With **SketchUp Pro Mac**, users can leverage advanced features such as dynamic 
 
 Whether you are designing a new building, remodeling an interior space, or planning a urban project, SketchUp Pro for Mac offers the flexibility and power needed to turn concepts into detailed 3D models and professional presentations.
 
-![SketchUp Pro Interface](https://static.macupdate.com/screenshots/314525/m/sketchup-screenshot.png)
+![SketchUp Pro Interface](https://global.discourse-cdn.com/sketchup/original/3X/1/7/17cd989945be30bec3a75df9cf16b6fdc479a528.png)
 
 ---
 
